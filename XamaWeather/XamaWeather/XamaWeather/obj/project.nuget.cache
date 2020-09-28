@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YxwBRiHwUVho8Y6l8KxVfcbPQ4dEOM9jjGbS+4gCoymZgQmNU8hoGEKxit5bNK1kDDhL+JLoM1+EcKMwxngNmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
