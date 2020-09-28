@@ -634,11 +634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj",
       "projectName": "XamaWeather",
-      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj",
+      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj",
       "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather\\obj\\",
+      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

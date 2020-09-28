@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather.iOS\\XamaWeather.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather.iOS\\XamaWeather.iOS.csproj",
       "projectName": "XamaWeather.iOS",
-      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather.iOS\\XamaWeather.iOS.csproj",
+      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather.iOS\\XamaWeather.iOS.csproj",
       "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj": {
-              "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj"
+            "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj": {
+              "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj"
             }
           }
         }

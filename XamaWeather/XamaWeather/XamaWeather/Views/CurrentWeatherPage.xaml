@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamaWeather.Views.CurrentWeatherPage">
+    <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" HeightRequest="160" ColumnSpacing="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid BackgroundColor="#5A8FEC" Opacity="0.4">
+                <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                    <Label Text="Sunday" TextColor="White" FontSize="13" HorizontalOptions="Center" />
+                    <Label Margin="0,-5,0,0" Text="01 Dec" TextColor="White" FontSize="10" HorizontalTextAlignment="Center" />
+                    <Image Source="cloud.png" Margin="0,20" WidthRequest="30" HeightRequest="50" />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Label Text="22" TextColor="White" FontSize="23" HorizontalOptions="Center"/>
+                        <Label Text="°" TextColor="White" FontSize="23" HorizontalOptions="Center"/>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+            <Grid BackgroundColor="#5A8FEC" Opacity="0.6" Grid.Column="1">
+                <StackLayout>
+                    <Label Text="Monday" TextColor="White" FontSize="13" HorizontalOptions="Center" />
+                    <Label Margin="0,-5,0,0" Text="02 Dec" TextColor="White" FontSize="10" HorizontalTextAlignment="Center" />
+                    <Image Source="cloud.png" Margin="0,20" WidthRequest="30" HeightRequest="50" />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Label Text="17" TextColor="White" FontSize="23" HorizontalOptions="Center"/>
+                        <Label Text="°" TextColor="White" FontSize="23" HorizontalOptions="Center"/>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+            <Grid BackgroundColor="#5A8FEC" Opacity="0.8" Grid.Column="2">
+                <StackLayout>
+                    <Label Text="Monday" TextColor="White" FontSize="13" HorizontalOptions="Center" />
+                    <Label Margin="0,-5,0,0" Text="03 Dec" TextColor="White" FontSize="10" HorizontalTextAlignment="Center" />
+                    <Image Source="cloud.png" Margin="0,20" WidthRequest="30" HeightRequest="50" />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Label Text="17" TextColor="White" FontSize="23" HorizontalOptions="Center"/>
+                        <Label Text="°" TextColor="White" FontSize="23" HorizontalOptions="Center"/>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+            <Grid BackgroundColor="#5A8FEC" Grid.Column="3">
+                <StackLayout>
+                    <Label Text="Monday" TextColor="White" FontSize="13" HorizontalOptions="Center" />
+                    <Label Margin="0,-5,0,0" Text="04 Dec" TextColor="White" FontSize="10" HorizontalTextAlignment="Center" />
+                    <Image Source="cloud.png" Margin="0,20" WidthRequest="30" HeightRequest="50" />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Label Text="25" TextColor="White" FontSize="23" HorizontalOptions="Center"/>
+                        <Label Text="°" TextColor="White" FontSize="23" HorizontalOptions="Center"/>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+        </Grid>
+    </Grid>
+</ContentPage>

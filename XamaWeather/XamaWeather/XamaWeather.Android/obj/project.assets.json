@@ -1936,11 +1936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather.Android\\XamaWeather.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather.Android\\XamaWeather.Android.csproj",
       "projectName": "XamaWeather.Android",
-      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather.Android\\XamaWeather.Android.csproj",
+      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather.Android\\XamaWeather.Android.csproj",
       "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather.Android\\obj\\",
+      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj": {
-              "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj"
+            "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj": {
+              "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\XamaWeatherApp\\XamaWeather\\XamaWeather\\XamaWeather\\XamaWeather.csproj"
             }
           }
         }

@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\bin\Debug\netstandard2.0\XamaWeather.deps.json
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\bin\Debug\netstandard2.0\XamaWeather.dll
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\bin\Debug\netstandard2.0\ref\XamaWeather.dll
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\bin\Debug\netstandard2.0\XamaWeather.pdb
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\XamaWeather.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\XamaWeather.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\XamaWeather.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\XamaWeather.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\XamaWeather.dll
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\ref\XamaWeather.dll
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather\obj\Debug\netstandard2.0\XamaWeather.pdb
