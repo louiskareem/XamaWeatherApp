@@ -94,7 +94,6 @@ C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeath
 C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\optimized\
 C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\XamaWeather.iOS.csprojAssemblyReference.cache
 C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\XamaWeather.iOS.csproj.CoreCompileInputs.cache
-C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
 C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\XamaWeather.iOS.csproj.CopyComplete
 C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\XamaWeather.iOS.exe
 C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\XamaWeather.iOS.pdb
@@ -114,3 +113,5 @@ C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeath
 C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\XamaWeather.iOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
 C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Entitlements.plist.NoneOutput.stamp
 C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Info.plist.NoneOutput.stamp
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\Gebruiker\source\repos\XamaWeatherApp\XamaWeather\XamaWeather\XamaWeather.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Newtonsoft.Json.dll.ReferenceCopyLocalPaths.stamp
